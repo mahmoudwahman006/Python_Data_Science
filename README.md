@@ -1,26 +1,32 @@
 # pandasEXs
-## 1.1Food_Practice  → exercise with solving ^_^ 
+## 1.1.1Food_Practice  → exercise with solving ^_^ 
 ### completed (:
-### → Hard Question that you will deal with {
-#### → Step 8. How is the dataset indexed?
-#### → Step 9. Which was the most-ordered item?
-#### → Step 10. For the most-ordered item, how many items were ordered?
-#### → Step 11. What was the most ordered item in the choice_description column?
-#### → Step 12. How many items were orderd in total?
-#### → Step 13.b. Create a lambda function and change the type of item price
-#### → Step 14. How much was the revenue for the period in the dataset?
-#### → Step 15. How many orders were made in the period?
-#### → Step 16. What is the average revenue amount per order?
-#### → Step 17. How many different items are sold?
-}
-## EX2  → exercise with solving ^_^ ### completed (:
-## EX3  → exercise with solving ^_^ ###still not completed ):
-## EX4  → exercise with solving ^_^ ### completed (:
+### → Hard Question that you will deal with { Step 8, Step 9, Step 10, Step 11, Step 12, Step 13, Step 14, Step 15, Step 16 and Step 17 }
+
+## 1.1.2Food_Practice  → exercise with solving ^_^
+### completed (:
+### → Hard Question that you will deal with { Step 4, Step 5, Step 6, Step 7, Step 8 and Step 9 }
+
+## 1.2Private_Data_practice → exercise with solving ^_^
+###completed (:
+### → Hard Question that you will deal with {Step 3, Step 9, Step 10, Step 12, Step 13, Step 14, Step 15, Step 16, Step 17 and step 18}
+
+## 1.3Food_Practice2 → exercise with solving ^_^ 
+### completed (:
+### → Hard Question that you will deal with → No hard questions ^__^
+
 ## EX5  → exercise with solving ^_^ ### completed (:
+
 ## EX6  → exercise with solving ^_^ ### completed (:
+
 ## EX7  → exercise with solving ^_^ ### completed (:
+
 ## EX8  → exercise with solving ^_^ ### completed (:
+
 ## EX9  → exercise with solving ^_^ ### completed (:
+
 ## EX10  → exercise with solving ^_^ ### completed (:
+
 ## EX11  → exercise with solving ^_^ ### completed (:
+
 ## EX for baby names num13  → exercise with solving ^_^ ### completed (:
