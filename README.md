@@ -15,7 +15,9 @@
 ### completed (:
 ### → Hard Question that you will deal with → No hard questions ^__^
 
-## EX5  → exercise with solving ^_^ ### completed (:
+## 2.1Filtering_and_Sorting_Teams_Practice .ipynb → exercise with solving ^_^ 
+### completed (:
+### → Hard Question that you will deal with {Step 11, Step 12, Step 13}
 
 ## EX6  → exercise with solving ^_^ ### completed (:
 
